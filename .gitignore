@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/IPL_Dataset_2008_to_2026.csv
+.env

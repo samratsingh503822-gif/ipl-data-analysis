@@ -1,0 +1,5 @@
+match_id,batting_team,bowling_team,batsman,bowler,batsman_runs,total_runs,dismissal_kind
+1,Mumbai Indians,Chennai Super Kings,S Tendulkar,M Ntini,4,4,
+1,Mumbai Indians,Chennai Super Kings,S Jayasuriya,M Ntini,6,6,caught
+2,Delhi Capitals,Royal Challengers Bangalore,V Sehwag,Z Khan,4,4,
+2,Delhi Capitals,Royal Challengers Bangalore,G Gambhir,Z Khan,1,1,bowled
